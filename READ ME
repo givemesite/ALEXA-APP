@@ -1,136 +1,69 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+COMPONENTS AND SUPPLIES
+A000066 iso both	
+Arduino UNO & Genuino UNO
+×	1	
+Esp01	
+Everything ESP ESP8266 ESP-01
+×	1	
+Protocentral pulse oximeter heart rate sensor based on max30100	
+ProtoCentral Pulse Oximeter & Heart Rate Sensor based on MAX30100
+×	1	
+11028 01	
+SparkFun Triple Axis Accelerometer and Gyro Breakout - MPU-6050
+×	1	
+ABOUT THIS PROJECT
+Welcome To The Alexa Wristband Project
 
-<head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Untitled 1</title>
-</head>
+Hi my name is Kris, i've always been a strange but interesting individual. Hacking away in my in-home lab with the tools the internet has provided, expanding my knowledge by application and approach rather then studying and testing. i'd like to explain what it is im doing here quickly and straight to the point. So we can use our resources to benefit our outcome here on earth.
 
-<body>
+-Kris
 
-<h2 class="section-title" style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: &quot;Typonine Sans Regular&quot;; font-weight: bold; line-height: 1.1; color: rgb(102, 102, 102); font-size: 1em; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: 0.3px; orphans: 2; text-align: start; text-indent: 0px; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-<span class="title title-toggle" style="box-sizing: border-box; margin: 0px; padding: 25px 40px; display: block; position: relative; color: rgb(102, 102, 102); text-decoration: none; font-weight: 500; text-transform: uppercase; font-family: &quot;Typonine Sans Medium&quot;; letter-spacing: 0.6px; font-size: 20px; line-height: 22px;">
-<span style="box-sizing: border-box; margin: 0px; padding: 0px;">ABOUT THIS 
-PROJECT</span><i class="fa fa-chevron-up" style="box-sizing: border-box; margin: 0px; padding: 0px; display: block; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 1; font-family: FontAwesome; font-size: 10px; text-rendering: auto; -webkit-font-smoothing: antialiased; float: right;"></i></span></h2>
-<div class="section-content hljs-active hljs-arduino" style="box-sizing: border-box; margin: 0px; padding: 10px 40px 40px; display: block; color: rgb(135, 145, 145); font-family: &quot;Typonine Sans Regular&quot;; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.3px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-	<div class="medium-editor" style="box-sizing: border-box; margin: 0px; padding: 0px; position: relative;">
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">
-		<code style="box-sizing: border-box; margin: 0px; padding: 2px 4px; font-family: monospace, serif; font-size: 14px; color: rgb(119, 119, 119); background-color: rgb(242, 242, 242); border-radius: 4px;">
-		Welcome To The Alexa Wristband Project</code></strong></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">
-		Hi my name is Kris,</strong><span style="box-sizing: border-box; margin: 0px; padding: 0px">&nbsp;</span><em style="box-sizing: border-box; margin: 0px; padding: 0px;">i've 
-		always been a strange but interesting individual. Hacking away in my 
-		in-home lab with the tools the internet has provided, expanding my 
-		knowledge by application and approach rather then studying and testing. 
-		i'd like to explain what it is im doing here quickly and straight to the 
-		point. So we can use our resources to benefit our outcome here on earth.</em></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<em style="box-sizing: border-box; margin: 0px; padding: 0px;">-Kris</em></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">
-		What Is It</strong></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		A wristband that detects seizures, comes equipped with a pulse, gyro 
-		sensor and connects to wifi to report events.</p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">
-		What Is The Device Used For</strong></p>
-		<ul style="box-sizing: border-box; margin: 1em 0px; padding: 0px 0px 0px 1.5em; line-height: 1.5em;">
-			<li style="box-sizing: border-box; margin: 0px; padding: 0px;">Fall 
-			Risk</li>
-		</ul>
-		<ul style="box-sizing: border-box; margin: 1em 0px; padding: 0px 0px 0px 1.5em; line-height: 1.5em;">
-			<li style="box-sizing: border-box; margin: 0px; padding: 0px;">
-			Seizure Detection</li>
-		</ul>
-		<ul style="box-sizing: border-box; margin: 1em 0px; padding: 0px 0px 0px 1.5em; line-height: 1.5em;">
-			<li style="box-sizing: border-box; margin: 0px; padding: 0px;">
-			Irregular Arrhythmia Events</li>
-		</ul>
-		<ul style="box-sizing: border-box; margin: 1em 0px; padding: 0px 0px 0px 1.5em; line-height: 1.5em;">
-			<li style="box-sizing: border-box; margin: 0px; padding: 0px;">
-			Autonomic Events Reporting</li>
-		</ul>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">
-		What It Can Do</strong></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		When the device detects a seizure,heart event,fall. Alexa will ask the 
-		user to respond. If there is no response the device will seek Medical 
-		help</p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		We have a layout and a test system in the works, the wristband sketch is 
-		in the development folder - Listed on GIT</p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">
-		Where We've Come So Far</strong></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		Coding The Real - Time Notification Platform</p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<span style="box-sizing: border-box; margin: 0px; padding: 0px;">The 
-		Alexa / ECHO API, If used for what we are developing. The Alexa API will 
-		need to develop a<span>&nbsp;</span></span><strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">NEW<span>&nbsp;</span></strong><span style="box-sizing: border-box; margin: 0px; padding: 0px;">function 
-		for notifications to pass through without using context like "</span><strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">Im 
-		Reminding You</strong><span style="box-sizing: border-box; margin: 0px; padding: 0px;">" 
-		or<span>&nbsp;</span></span><strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">require 
-		the user to ask</strong><span style="box-sizing: border-box; margin: 0px; padding: 0px;"><span>&nbsp;</span>what 
-		the notification is. so if there is a function integrated that can take 
-		text to speech and send it to alexa/ECHO without needing to be called on 
-		by a function - intent.</span></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<em style="box-sizing: border-box; margin: 0px; padding: 0px;">
-		<strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">
-		We Need More Options !</strong></em></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">
-		More info about the problem found here...</strong></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<a href="https://community.smartthings.com/t/play-a-message-remotely-on-sensor-trigger-through-alexa-voice/56946" rel="nofollow" style="box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 151, 156); text-decoration: none;">
-		https://community.smartthings.com/t/play-a-message-remotely-on-sensor-trigger-through-alexa-voice/56946</a></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		and here</p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<a href="https://stackoverflow.com/questions/33409530/amazon-echo-push-a-message-to-the-device" rel="nofollow" style="box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 151, 156); text-decoration: none;">
-		https://stackoverflow.com/questions/33409530/amazon-echo-push-a-message-to-the-device</a></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">
-		The Code</strong></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		There is nothing special here just a API that makes a call to a home 
-		server to send the request to Alexa, store's the user's data...</p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		Requirements - Library's</p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		</p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 500; font-family: &quot;Typonine Sans Medium&quot;;">
-		IP</strong></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		Arduino .INO File Property</p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<a href="http://www.instructables.com/id/Wearable-heart-beat-sensor-ESP8266Pulse-sensor/" rel="nofollow" style="box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 151, 156); text-decoration: none;">
-		http://www.instructables.com/id/Wearable-heart-beat-sensor-ESP8266Pulse-sensor/</a></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		<a href="http://www.instructables.com/id/Wearable-heart-beat-sensor-ESP8266Pulse-sensor/" rel="nofollow" style="box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 151, 156); text-decoration: none;">
-		</a></p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		</p>
-		<p style="box-sizing: border-box; margin: 0.5em 0px; padding: 0px; line-height: 1.4em;">
-		ARDUINO</p>
-		<ul style="box-sizing: border-box; margin: 1em 0px; padding: 0px 0px 0px 1.5em; line-height: 1.5em;">
-			<li style="box-sizing: border-box; margin: 0px; padding: 0px;">GYRO 
-			- mpu6050</li>
-		</ul>
-		<ul style="box-sizing: border-box; margin: 1em 0px; padding: 0px 0px 0px 1.5em; line-height: 1.5em;">
-			<li style="box-sizing: border-box; margin: 0px; padding: 0px;">WIFI 
-			- esp</li>
-		</ul>
-	</div>
-</div>
+What Is It
 
-</body>
+A wristband that detects seizures, comes equipped with a pulse, gyro sensor and connects to wifi to report events.
 
-</html>
+What Is The Device Used For
 
+Fall Risk
+Seizure Detection
+Irregular Arrhythmia Events
+Autonomic Events Reporting
+What It Can Do
+
+When the device detects a seizure,heart event,fall. Alexa will ask the user to respond. If there is no response the device will seek Medical help
+
+We have a layout and a test system in the works, the wristband sketch is in the development folder - Listed on GIT
+
+Where We've Come So Far
+
+Coding The Real - Time Notification Platform
+
+The Alexa / ECHO API, If used for what we are developing. The Alexa API will need to develop a NEW function for notifications to pass through without using context like "Im Reminding You" or require the user to ask what the notification is. so if there is a function integrated that can take text to speech and send it to alexa/ECHO without needing to be called on by a function - intent.
+
+We Need More Options !
+
+More info about the problem found here...
+
+https://community.smartthings.com/t/play-a-message-remotely-on-sensor-trigger-through-alexa-voice/56946
+
+and here
+
+https://stackoverflow.com/questions/33409530/amazon-echo-push-a-message-to-the-device
+
+The Code
+
+There is nothing special here just a API that makes a call to a home server to send the request to Alexa, store's the user's data...
+
+Requirements - Library's
+
+IP
+
+Arduino .INO File Property
+
+http://www.instructables.com/id/Wearable-heart-beat-sensor-ESP8266Pulse-sensor/
+
+
+ARDUINO
+
+GYRO - mpu6050
+WIFI - esp
